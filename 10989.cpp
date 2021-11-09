@@ -4,13 +4,6 @@ using namespace std;
 // boj.kr/10989
 // The below is an implementation of counting sort
 
-#include <iostream>
-#include <stack>
-using namespace std;
-
-// boj.kr/10989
-// The below is an implementation of counting sort
-
 int main() {
 	cin.tie(NULL);
 	ios::sync_with_stdio(false);
